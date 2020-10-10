@@ -26,8 +26,7 @@ Howdy! Nice day for fishing ain't it! Hey hey~
 [![](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)]()
 [![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
 
-[![](https://img.shields.io/badge/Java8-007396?style=flat-square&logo=java&logoColor=white)]()
-[![](https://img.shields.io/badge/Java11-007396?style=flat-square&logo=java&logoColor=white)]()
+[![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)]()
 [![](https://img.shields.io/badge/Golang-00add8?style=flat-square&logo=go&logoColor=white)]()
 [![](https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)]()
