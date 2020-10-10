@@ -9,7 +9,7 @@ Howdy! Nice day for fishing ain't it! Hey hey~
 
 ### Env
 [![](https://img.shields.io/badge/Windows-10-33aadd?style=flat-square&logo=windows&logoColor=6cf)]()
-[![](https://img.shields.io/badge/Debian-buster-A81D33?style=flat-square&logo=Debian&logoColor=white)]()
+[![](https://img.shields.io/badge/Debian-buster-A81D33?style=flat-square&logo=Debian&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Arch%20Linux-KDE-33aadd?style=flat-square&logo=arch-linux&logoColor=6cf)]()
 [![](https://img.shields.io/badge/macOS-Catalina-33aadd?style=flat-square&logo=Apple&logoColor=6cf)]()
 [![](https://img.shields.io/badge/ChromeOS-85-33aadd?style=flat-square&logo=google-chrome&logoColor=6cf)]()
