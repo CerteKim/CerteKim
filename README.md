@@ -5,7 +5,7 @@ Howdy! Nice day for fishing ain't it! Hey hey~
 [![](https://img.shields.io/badge/bilibili-道明寺から_子曦-1DA1F2?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/7675097)
 [![](https://img.shields.io/badge/twitter-CerteKim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/certekim)
 
-[![](https://github.com/CerteKim"><img src="https://github-readme-stats.vercel.app/api?username=CerteKim&show_icons=true&count_private=true&theme=vue&hide_title=true&hide_border=true)](https://github.com/CerteKim)
+[![](https://github-readme-stats.vercel.app/api?username=CerteKim&show_icons=true&count_private=true&theme=vue&hide_title=true&hide_border=true)](https://github.com/CerteKim)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=CerteKim&count_private=true&layout=compact&hide_border=true)](https://github.com/CerteKim)
 
 ### Env
