@@ -9,7 +9,7 @@ Level Of ViolecE
 [![](https://img.shields.io/badge/Debian-buster-33aadd?style=flat-square&logo=Debian&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Arch%20Linux-KDE-33aadd?style=flat-square&logo=arch-linux&logoColor=6cf)]()
 [![](https://img.shields.io/badge/macOS-Catalina-33aadd?style=flat-square&logo=Apple&logoColor=6cf)]()
-[![](https://img.shields.io/badge/ChromeOS-85-33aadd?style=flat-square&logo=google-chrome&logoColor=6cf)]()
+[![](https://img.shields.io/badge/ChromeOS-87-33aadd?style=flat-square&logo=google-chrome&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Android-Q-33aadd?style=flat-square&logo=Android&logoColor=6cf)]()
 
 [![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)]()
