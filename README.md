@@ -9,22 +9,13 @@ Level Of ViolecE
 [![](https://img.shields.io/badge/Debian-buster-33aadd?style=flat-square&logo=Debian&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Arch%20Linux-KDE-33aadd?style=flat-square&logo=arch-linux&logoColor=6cf)]()
 [![](https://img.shields.io/badge/ChromeOS-88-33aadd?style=flat-square&logo=google-chrome&logoColor=6cf)]()
-[![](https://img.shields.io/badge/Android-Q-33aadd?style=flat-square&logo=Android&logoColor=6cf)]()
+[![](https://img.shields.io/badge/Android-R-33aadd?style=flat-square&logo=Android&logoColor=6cf)]()
 
-[![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)]()
-[![](https://img.shields.io/badge/Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white)]()
-[![](https://img.shields.io/badge/Chocolatey-80B5E3?style=flat-square&logo=Chocolatey&logoColor=white)]()
-
-[![](https://img.shields.io/badge/Intellij%20IDEA-Ultimate-33aadd?style=flat-square&logo=Intellij-IDEA&logoColor=6cf)]()
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=6cf)]()
+[![](https://img.shields.io/badge/Visual%20Studio-Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=6cf)]()
 
 [![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=github&logoColor=white)]()
-[![](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)]()
-[![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
 
-[![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)]()
 [![](https://img.shields.io/badge/Golang-00add8?style=flat-square&logo=go&logoColor=white)]()
-[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 
 [![](https://img.shields.io/badge/Magisk-00AF9C?style=flat-square&logo=magisk&logoColor=white)]()
 
