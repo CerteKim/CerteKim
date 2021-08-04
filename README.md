@@ -5,8 +5,8 @@ Level Of ViolecE
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=CerteKim&count_private=true&layout=compact&hide_border=true)](https://github.com/CerteKim)
 
 ### Tags
-[![](https://img.shields.io/badge/Windows-10-33aadd?style=flat-square&logo=windows&logoColor=6cf)]()
-[![](https://img.shields.io/badge/Debian-buster-33aadd?style=flat-square&logo=Debian&logoColor=6cf)]()
+[![](https://img.shields.io/badge/Windows-11-33aadd?style=flat-square&logo=windows&logoColor=6cf)]()
+[![](https://img.shields.io/badge/Debian-Hirsute-33aadd?style=flat-square&logo=Debian&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Arch%20Linux-KDE-33aadd?style=flat-square&logo=arch-linux&logoColor=6cf)]()
 [![](https://img.shields.io/badge/ChromeOS-91-33aadd?style=flat-square&logo=google-chrome&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Android-R-33aadd?style=flat-square&logo=Android&logoColor=6cf)]()
