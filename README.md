@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 # CerteKim
 Level Of ViolecE
 
@@ -8,7 +15,7 @@ Level Of ViolecE
 [![](https://img.shields.io/badge/Windows-11-33aadd?style=flat-square&logo=windows&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Debian-Hirsute-33aadd?style=flat-square&logo=Debian&logoColor=6cf)]()
 [![](https://img.shields.io/badge/ArchLinux-with%20KDE-33aadd?style=flat-square&logo=arch-linux&logoColor=6cf)]()
-[![](https://img.shields.io/badge/ChromeOS-R92-33aadd?style=flat-square&logo=google-chrome&logoColor=6cf)]()
+[![](https://img.shields.io/badge/ChromeOS-R93-33aadd?style=flat-square&logo=google-chrome&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Android-R-33aadd?style=flat-square&logo=Android&logoColor=6cf)]()
 
 [![](https://img.shields.io/badge/Visual%20Studio-Code-33aadd?style=flat-square&logo=visual-studio-code&logoColor=6cf)]()
